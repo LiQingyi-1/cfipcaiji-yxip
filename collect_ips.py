@@ -8,7 +8,6 @@ urls = [
     'https://ip.164746.xyz', 
     'https://cf.090227.xyz', 
     'https://bestip.badking.pp.ua',
-    'https://vps789.com',
     'https://stock.hostmonit.com/CloudFlareYes',
     'https://www.wetest.vip/page/cloudflare/address_v4.html'
 ]
